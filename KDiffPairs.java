@@ -1,7 +1,7 @@
 // Time Complexity : O(n) + O(n) ~ O(n) where n is the number of elements 
 // Space Complexity : O(n)
 // Did this code successfully run on Leetcode : Yes
-// Any problem you faced while coding this : No
+// Any problem you faced while coding this : Yes, was not able to come up with the solution in the mock interview
 
 
 // Your code here along with comments explaining your approach
